@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.lscache
+.idea/
+aspire-output/
+TestResults/
+coveragereport/
